@@ -1,6 +1,5 @@
 # UFO Sightings Search
-
-# Website that searches through the large collection of eye-witness reports. 
+# Website that searches through the large collection of UFO sightings bases on eye-witness reports. 
 Multiple input tag and/or selected items from dropdowns are used to set multiple filters and search for UFO sightings using the criteria based on:
 •	date/time
 •	city
