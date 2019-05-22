@@ -13,10 +13,10 @@ Default is set to display “ALL” UFO sightings.
 You can filter your selection using the drop downs and also by entering the date in the format (mm/dd/yyyy).
 
 The code is written such as to:
-•	set and re-initialize the “choose state” and/or “choose city” drop down based on country selected
-•	set and re-initialize the “choose city” drop down based on state selected.  
+- set and re-initialize the “choose state” and/or “choose city” drop down based on country selected
+- set and re-initialize the “choose city” drop down based on state selected.  
 
-# Filter buttons created:
+Filter buttons created:
 1.	Filter Search – this button is used to search data based on filter applied
 2.	Clear Filter – this button when clicked will clear the filters applied
 3.	Reset Data – this button when clicked will clear, reset the searched data to original complete data set. 
